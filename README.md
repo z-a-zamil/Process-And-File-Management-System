@@ -1,4 +1,4 @@
-# ***Process-And-File-Management-System***
+# ***Process-Management-And-File-Management-System***
 
   This is my **Undergraduate Studies** academic project for ***CSE323: CSE 323 Operating Systems Design*** course.
 
