@@ -30,7 +30,7 @@ void RunningProcessOFPID(pid_t pid);
 void pwd();
 
 
-/* Driver Function. */
+/* -------------------------------------- DRIVER FUNCTION START ------------------------------------ */
 int main()
 {
 	int op, retval;
@@ -349,7 +349,7 @@ int main()
 	return 0;
 }
 
-//-------------------------------------- DRIVER FUNCTION END ------------------------------------
+/* -------------------------------------- DRIVER FUNCTION END ------------------------------------ */
 
 
 int InterfaceAndOption()
